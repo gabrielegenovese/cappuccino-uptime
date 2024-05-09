@@ -1,42 +1,42 @@
 [
   {
     "name": "Immich",
-    "url": "https://www.photos.cappuccino.ovh",
-    "icon": "https://icons.duckduckgo.com/ip3/www.photos.cappuccino.ovh.ico",
+    "url": "https://photos.cappuccino.ovh",
+    "icon": "https://icons.duckduckgo.com/ip3/photos.cappuccino.ovh.ico",
     "slug": "immich",
-    "status": "down",
-    "uptime": "0.35%",
-    "uptimeDay": "0.35%",
-    "uptimeWeek": "0.35%",
-    "uptimeMonth": "0.35%",
-    "uptimeYear": "0.35%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.38%",
+    "uptimeDay": "0.38%",
+    "uptimeWeek": "0.38%",
+    "uptimeMonth": "0.38%",
+    "uptimeYear": "0.38%",
+    "time": 591,
+    "timeDay": 591,
+    "timeWeek": 591,
+    "timeMonth": 591,
+    "timeYear": 591,
     "dailyMinutesDown": {
-      "2024-05-09": 6
+      "2024-05-09": 15
     }
   },
   {
     "name": "NextCloud",
-    "url": "https://www.cloud.cappuccino.ovh",
-    "icon": "https://icons.duckduckgo.com/ip3/www.cloud.cappuccino.ovh.ico",
+    "url": "https://cloud.cappuccino.ovh/",
+    "icon": "https://icons.duckduckgo.com/ip3/cloud.cappuccino.ovh.ico",
     "slug": "next-cloud",
     "status": "down",
-    "uptime": "0.24%",
-    "uptimeDay": "0.24%",
-    "uptimeWeek": "0.24%",
-    "uptimeMonth": "0.24%",
-    "uptimeYear": "0.24%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-09": 6
+      "2024-05-09": 15
     }
   }
 ]
