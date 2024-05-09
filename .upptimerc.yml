@@ -6,10 +6,8 @@ sites:
     url: https://photos.cappuccino.ovh
   - name: NextCloud
     url: https://cloud.cappuccino.ovh/
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-    
+
+
 assignees:
   - gabrielegenovese
 
