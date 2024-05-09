@@ -1,12 +1,11 @@
-# Change these first
 owner: gabrielegenovese
 repo: cappuccino-uptime
 
 sites:
   - name: Immich
-    url: https://www.photos.cappuccino.ovh
+    url: https://photos.cappuccino.ovh
   - name: NextCloud
-    url: https://www.cloud.cappuccino.ovh
+    url: https://cloud.cappuccino.ovh/
     port: 80
     check: "tcp-ping"
     ipv6: true
@@ -17,9 +16,9 @@ assignees:
 status-website:
   baseUrl: /cappuccino-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Cappuccino uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Cappuccino Uptime
+  introTitle: "Cappuccino uptime board"
+  introMessage: ""
   navbar:
     - title: Status
       href: /
