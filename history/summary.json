@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.photos.cappuccino.ovh.ico",
     "slug": "immich",
     "status": "down",
-    "uptime": "8.86%",
-    "uptimeDay": "8.86%",
-    "uptimeWeek": "8.86%",
-    "uptimeMonth": "8.86%",
-    "uptimeYear": "8.86%",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-09": 0
+      "2024-05-09": 6
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cloud.cappuccino.ovh.ico",
     "slug": "next-cloud",
     "status": "down",
-    "uptime": "6.67%",
-    "uptimeDay": "6.67%",
-    "uptimeWeek": "6.67%",
-    "uptimeMonth": "6.67%",
-    "uptimeYear": "6.67%",
+    "uptime": "0.24%",
+    "uptimeDay": "0.24%",
+    "uptimeWeek": "0.24%",
+    "uptimeMonth": "0.24%",
+    "uptimeYear": "0.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-09": 0
+      "2024-05-09": 6
     }
   }
 ]
