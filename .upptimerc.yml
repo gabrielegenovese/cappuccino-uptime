@@ -11,7 +11,8 @@ sites:
 
 assignees:
   - gabrielegenovese
-
+  - sxmg0
+  
 status-website:
   cname: uptime.cappuccino.ovh
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
