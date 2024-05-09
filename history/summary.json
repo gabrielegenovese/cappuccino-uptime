@@ -4,19 +4,19 @@
     "url": "https://photos.cappuccino.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/photos.cappuccino.ovh.ico",
     "slug": "immich",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 632,
-    "timeDay": 632,
-    "timeWeek": 632,
-    "timeMonth": 632,
-    "timeYear": 632,
+    "status": "up",
+    "uptime": "97.52%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "97.52%",
+    "time": 657,
+    "timeDay": 657,
+    "timeWeek": 657,
+    "timeMonth": 657,
+    "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-05-09": 1
+      "2024-05-09": 16
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://cloud.cappuccino.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.cappuccino.ovh.ico",
     "slug": "next-cloud",
-    "status": "down",
-    "uptime": "92.51%",
-    "uptimeDay": "92.51%",
-    "uptimeWeek": "92.51%",
-    "uptimeMonth": "92.51%",
-    "uptimeYear": "92.51%",
-    "time": 835,
-    "timeDay": 835,
-    "timeWeek": 835,
-    "timeMonth": 835,
-    "timeYear": 835,
+    "status": "up",
+    "uptime": "90.36%",
+    "uptimeDay": "90.36%",
+    "uptimeWeek": "90.36%",
+    "uptimeMonth": "90.36%",
+    "uptimeYear": "90.36%",
+    "time": 870,
+    "timeDay": 870,
+    "timeWeek": 870,
+    "timeMonth": 870,
+    "timeYear": 870,
     "dailyMinutesDown": {
-      "2024-05-09": 48
+      "2024-05-09": 63
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://matrix.cappuccino.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.cappuccino.ovh.ico",
     "slug": "matrix",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 503,
-    "timeDay": 503,
-    "timeWeek": 503,
-    "timeMonth": 503,
-    "timeYear": 503,
+    "status": "up",
+    "uptime": "97.46%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "97.46%",
+    "time": 560,
+    "timeDay": 560,
+    "timeWeek": 560,
+    "timeMonth": 560,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2024-05-09": 0
+      "2024-05-09": 15
     }
   }
 ]
