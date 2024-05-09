@@ -5,8 +5,9 @@ sites:
   - name: Immich
     url: https://photos.cappuccino.ovh
   - name: NextCloud
-    url: https://cloud.cappuccino.ovh/
-
+    url: https://cloud.cappuccino.ovh
+  - name: matrix
+    url: https://matrix.cappuccino.ovh
 
 assignees:
   - gabrielegenovese
