@@ -1,5 +1,23 @@
 [
   {
+    "name": "test",
+    "url": "https://test.cappuccino.ovh",
+    "icon": "https://icons.duckduckgo.com/ip3/test.cappuccino.ovh.ico",
+    "slug": "test",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 457,
+    "timeDay": 457,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Immich",
     "url": "https://photos.cappuccino.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/photos.cappuccino.ovh.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.58%",
-    "time": 682,
-    "timeDay": 599,
+    "time": 684,
+    "timeDay": 635,
     "timeWeek": 701,
-    "timeMonth": 682,
-    "timeYear": 682,
+    "timeMonth": 684,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2024-05-20": 52,
       "2024-05-09": 16
@@ -31,11 +49,11 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.41%",
-    "time": 902,
-    "timeDay": 758,
-    "timeWeek": 850,
-    "timeMonth": 902,
-    "timeYear": 902,
+    "time": 897,
+    "timeDay": 782,
+    "timeWeek": 846,
+    "timeMonth": 897,
+    "timeYear": 897,
     "dailyMinutesDown": {
       "2024-05-18": 32,
       "2024-05-09": 63
@@ -52,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 561,
-    "timeDay": 570,
-    "timeWeek": 567,
-    "timeMonth": 561,
-    "timeYear": 561,
+    "time": 549,
+    "timeDay": 475,
+    "timeWeek": 544,
+    "timeMonth": 549,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2024-05-09": 15
     }
