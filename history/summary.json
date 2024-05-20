@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.cappuccino.ovh.ico",
     "slug": "test",
     "status": "up",
-    "uptime": "77.59%",
-    "uptimeDay": "77.59%",
-    "uptimeWeek": "77.59%",
-    "uptimeMonth": "77.59%",
-    "uptimeYear": "77.59%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 485,
     "timeDay": 485,
     "timeWeek": 485,
     "timeMonth": 485,
     "timeYear": 485,
-    "dailyMinutesDown": {
-      "2024-05-20": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Immich",
