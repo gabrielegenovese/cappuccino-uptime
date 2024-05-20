@@ -2,6 +2,8 @@ owner: gabrielegenovese
 repo: cappuccino-uptime
 
 sites:
+  - name: test
+    url: https://test.cappuccino.ovh
   - name: Immich
     url: https://photos.cappuccino.ovh
   - name: NextCloud
