@@ -1,7 +1,7 @@
 url: https://test.cappuccino.ovh
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-20T16:38:03.212Z
+status: up
+code: 200
+responseTime: 477
+lastUpdated: 2024-05-20T16:40:01.510Z
 startTime: 2024-05-20T16:25:08.196Z
 generator: Upptime <https://github.com/upptime/upptime>
