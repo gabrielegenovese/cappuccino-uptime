@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.cappuccino.ovh.ico",
     "slug": "test",
     "status": "up",
-    "uptime": "42.62%",
-    "uptimeDay": "42.62%",
-    "uptimeWeek": "42.62%",
-    "uptimeMonth": "42.62%",
-    "uptimeYear": "42.62%",
-    "time": 468,
-    "timeDay": 468,
-    "timeWeek": 468,
-    "timeMonth": 468,
-    "timeYear": 468,
-    "dailyMinutesDown": {
-      "2024-05-20": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 437,
+    "timeDay": 437,
+    "timeWeek": 437,
+    "timeMonth": 437,
+    "timeYear": 437,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Immich",
@@ -30,11 +28,11 @@
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.58%",
-    "time": 672,
-    "timeDay": 591,
-    "timeWeek": 677,
-    "timeMonth": 672,
-    "timeYear": 672,
+    "time": 662,
+    "timeDay": 564,
+    "timeWeek": 657,
+    "timeMonth": 662,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2024-05-20": 52,
       "2024-05-09": 16
@@ -51,11 +49,11 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.41%",
-    "time": 885,
-    "timeDay": 742,
-    "timeWeek": 829,
-    "timeMonth": 885,
-    "timeYear": 885,
+    "time": 873,
+    "timeDay": 721,
+    "timeWeek": 815,
+    "timeMonth": 873,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2024-05-18": 32,
       "2024-05-09": 63
@@ -72,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 548,
-    "timeDay": 494,
-    "timeWeek": 543,
-    "timeMonth": 548,
-    "timeYear": 548,
+    "time": 543,
+    "timeDay": 486,
+    "timeWeek": 535,
+    "timeMonth": 543,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2024-05-09": 15
     }
