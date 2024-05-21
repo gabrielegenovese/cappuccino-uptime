@@ -4,19 +4,19 @@
     "url": "https://test.cappuccino.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/test.cappuccino.ovh.ico",
     "slug": "test",
-    "status": "down",
-    "uptime": "98.58%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "98.58%",
-    "time": 536,
-    "timeDay": 536,
-    "timeWeek": 536,
-    "timeMonth": 536,
-    "timeYear": 536,
+    "status": "up",
+    "uptime": "98.10%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "98.10%",
+    "time": 550,
+    "timeDay": 550,
+    "timeWeek": 550,
+    "timeMonth": 550,
+    "timeYear": 550,
     "dailyMinutesDown": {
-      "2024-05-21": 14
+      "2024-05-21": 18
     }
   },
   {
