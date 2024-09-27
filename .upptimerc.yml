@@ -10,6 +10,10 @@ sites:
     url: https://cloud.cappuccino.ovh
   - name: matrix
     url: https://matrix.cappuccino.ovh
+  - name: minecraft
+    check: "tcp-ping"
+    url: mc.cappuccino.ovh
+    port: 25565
 
 assignees:
   - gabrielegenovese
