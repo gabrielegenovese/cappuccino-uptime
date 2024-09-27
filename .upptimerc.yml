@@ -2,7 +2,7 @@ owner: gabrielegenovese
 repo: cappuccino-uptime
 
 sites:
-  - name: Host: cappuccino
+  - name: "Host: cappuccino"
     check: "tcp-ping"
     url: cappuccino.ovh
     port: 2222
