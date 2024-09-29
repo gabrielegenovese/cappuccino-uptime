@@ -70,11 +70,11 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Matrix_icon.svg/512px-Matrix_icon.svg.png?20210502154855",
     "slug": "matrix",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.86%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 575,
     "timeDay": 574,
     "timeWeek": 594,
@@ -91,9 +91,9 @@
     "url": "mc.cappuccino.ovh",
     "icon": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png",
     "slug": "minecraft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -102,6 +102,8 @@
     "timeWeek": 123,
     "timeMonth": 123,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-29": 0
+    }
   }
 ]
