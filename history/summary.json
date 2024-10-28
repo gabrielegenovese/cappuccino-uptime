@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "host-cappuccino",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 119,
     "timeDay": 100,
     "timeWeek": 132,
     "timeMonth": 118,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-10-28": 0
+      "2024-10-28": 5
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "immich",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.58%",
     "time": 652,
     "timeDay": 497,
@@ -36,7 +36,7 @@
     "timeMonth": 647,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2024-10-28": 0,
+      "2024-10-28": 5,
       "2024-09-21": 780,
       "2024-09-20": 181,
       "2024-05-20": 52,
@@ -49,18 +49,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.cappuccino.ovh.ico",
     "slug": "next-cloud",
     "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.56%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.56%",
     "time": 970,
     "timeDay": 1146,
     "timeWeek": 1065,
     "timeMonth": 926,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2024-10-28": 0,
+      "2024-10-28": 5,
       "2024-09-21": 780,
       "2024-09-20": 181,
       "2024-06-09": 18,
@@ -75,9 +75,9 @@
     "slug": "matrix",
     "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.61%",
     "time": 574,
     "timeDay": 502,
@@ -85,7 +85,7 @@
     "timeMonth": 565,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2024-10-28": 0,
+      "2024-10-28": 5,
       "2024-09-21": 759,
       "2024-09-20": 180,
       "2024-05-09": 15
@@ -97,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.cappuccino.ovh.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.81%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 789,
     "timeDay": 614,
     "timeWeek": 789,
     "timeMonth": 789,
     "timeYear": 789,
     "dailyMinutesDown": {
-      "2024-10-28": 0
+      "2024-10-28": 5
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyseerr.cappuccino.ovh.ico",
     "slug": "jellyseerr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.81%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 1565,
     "timeDay": 1234,
     "timeWeek": 1565,
     "timeMonth": 1565,
     "timeYear": 1565,
     "dailyMinutesDown": {
-      "2024-10-28": 0
+      "2024-10-28": 5
     }
   }
 ]
