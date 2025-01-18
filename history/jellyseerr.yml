@@ -1,7 +1,7 @@
 url: https://jellyseerr.cappuccino.ovh
-status: up
-code: 200
-responseTime: 971
-lastUpdated: 2025-01-17T23:16:30.047Z
+status: down
+code: 502
+responseTime: 3402
+lastUpdated: 2025-01-18T20:15:15.084Z
 startTime: 2024-10-26T14:43:03.905Z
 generator: Upptime <https://github.com/upptime/upptime>
