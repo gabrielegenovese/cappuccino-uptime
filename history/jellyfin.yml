@@ -1,7 +1,7 @@
 url: https://jellyfin.cappuccino.ovh
-status: down
-code: 502
-responseTime: 3741
-lastUpdated: 2025-02-12T14:34:05.570Z
+status: up
+code: 200
+responseTime: 1101
+lastUpdated: 2025-02-12T14:44:50.000Z
 startTime: 2024-10-26T14:43:02.634Z
 generator: Upptime <https://github.com/upptime/upptime>
