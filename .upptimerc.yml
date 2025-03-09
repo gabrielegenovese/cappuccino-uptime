@@ -2,10 +2,10 @@ owner: gabrielegenovese
 repo: cappuccino-uptime
 
 sites:
-  - name: "Host: cappuccino"
-    check: "tcp-ping"
-    url: cappuccino.ovh
-    port: 2223
+  # - name: "Host: cappuccino"
+  #   check: "tcp-ping"
+  #   url: cappuccino.ovh
+  #   port: 2222
   - name: Immich
     url: https://photos.cappuccino.ovh
   - name: NextCloud
