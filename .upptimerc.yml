@@ -10,7 +10,7 @@ sites:
     url: https://photos.cappuccino.ovh
   - name: NextCloud
     url: https://cloud.cappuccino.ovh
-  - name: matrix
+  - name: Matrix
     url: https://matrix.cappuccino.ovh
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Matrix_icon.svg/512px-Matrix_icon.svg.png?20210502154855
 # - name: minecraft
@@ -18,9 +18,9 @@ sites:
 #   url: mc.cappuccino.ovh
 #   port: 25565
 #   icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png
-  - name: jellyfin
+  - name: Jellyfin
     url: https://jellyfin.cappuccino.ovh
-  - name: jellyseerr
+  - name: Jellyseerr
     url: https://jellyseerr.cappuccino.ovh
 
 assignees:
