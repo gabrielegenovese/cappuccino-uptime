@@ -3,9 +3,7 @@ repo: cappuccino-uptime
 
 sites:
   - name: "Host: cappuccino"
-    check: "tcp-ping"
-    url: cappuccino.ovh
-    port: 80
+    url: https://test.cappuccino.ovh
   - name: Immich
     url: https://photos.cappuccino.ovh
   - name: NextCloud
@@ -22,6 +20,8 @@ sites:
     url: https://jellyfin.cappuccino.ovh
   - name: Jellyseerr
     url: https://jellyseerr.cappuccino.ovh
+  - name: Grocy 
+    url: https://grocy.cappuccino.ovh
 
 assignees:
   - gabrielegenovese
