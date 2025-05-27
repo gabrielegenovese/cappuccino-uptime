@@ -1,7 +1,7 @@
 url: https://grocy.cappuccino.ovh
-status: up
-code: 200
-responseTime: 1017
-lastUpdated: 2025-05-26T23:18:13.604Z
+status: down
+code: 502
+responseTime: 3534
+lastUpdated: 2025-05-27T20:20:07.056Z
 startTime: 2025-04-02T04:51:34.835Z
 generator: Upptime <https://github.com/upptime/upptime>
