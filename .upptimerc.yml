@@ -20,8 +20,8 @@ sites:
   #   url: https://jellyfin.cappuccino.ovh
   # - name: Jellyseerr
   #   url: https://jellyseerr.cappuccino.ovh
-  - name: Grocy 
-    url: https://grocy.cappuccino.ovh
+  # - name: Grocy 
+  #   url: https://grocy.cappuccino.ovh
   # - name: Personal page 
   #   url: https://gabrigeno.cappuccino.ovh
 
