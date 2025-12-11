@@ -11,6 +11,8 @@ sites:
   - name: Matrix
     url: https://matrix.cappuccino.ovh
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Matrix_icon.svg/512px-Matrix_icon.svg.png?20210502154855
+  - name: Chorer web 
+    url: https://chorer.cappuccino.ovh
   # - name: minecraft
   #   check: "tcp-ping"
   #   url: mc.cappuccino.ovh
