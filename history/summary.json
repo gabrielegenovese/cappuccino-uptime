@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 494,
-    "timeDay": 505,
-    "timeWeek": 589,
+    "timeDay": 595,
+    "timeWeek": 571,
     "timeMonth": 609,
-    "timeYear": 665,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2026-02-06": 71,
       "2025-10-22": 176,
@@ -29,8 +29,7 @@
       "2025-04-15": 39,
       "2025-04-02": 246,
       "2025-04-01": 71,
-      "2025-03-31": 32,
-      "2025-03-29": 108
+      "2025-03-31": 32
     }
   },
   {
@@ -44,10 +43,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 667,
-    "timeDay": 527,
-    "timeWeek": 648,
-    "timeMonth": 627,
+    "time": 666,
+    "timeDay": 595,
+    "timeWeek": 627,
+    "timeMonth": 626,
     "timeYear": 668,
     "dailyMinutesDown": {
       "2026-02-06": 71,
@@ -63,8 +62,7 @@
       "2025-04-15": 39,
       "2025-04-02": 74,
       "2025-04-01": 71,
-      "2025-03-31": 31,
-      "2025-03-29": 130
+      "2025-03-31": 31
     }
   },
   {
@@ -73,15 +71,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.cappuccino.ovh.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 1025,
-    "timeDay": 858,
-    "timeWeek": 933,
-    "timeMonth": 971,
+    "timeDay": 1004,
+    "timeWeek": 896,
+    "timeMonth": 972,
     "timeYear": 1020,
     "dailyMinutesDown": {
       "2026-02-06": 71,
@@ -100,8 +98,7 @@
       "2025-04-15": 39,
       "2025-04-02": 74,
       "2025-04-01": 70,
-      "2025-03-31": 31,
-      "2025-03-29": 130
+      "2025-03-31": 31
     }
   },
   {
@@ -116,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 623,
-    "timeDay": 488,
-    "timeWeek": 553,
-    "timeMonth": 606,
+    "timeDay": 569,
+    "timeWeek": 530,
+    "timeMonth": 605,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2026-02-06": 70,
@@ -134,8 +131,7 @@
       "2025-04-15": 39,
       "2025-04-02": 73,
       "2025-04-01": 70,
-      "2025-03-31": 30,
-      "2025-03-29": 106
+      "2025-03-31": 30
     }
   },
   {
@@ -144,16 +140,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chorer.cappuccino.ovh.ico",
     "slug": "chorer-web",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 726,
-    "timeDay": 592,
-    "timeWeek": 685,
-    "timeMonth": 695,
-    "timeYear": 726,
+    "uptimeYear": "99.96%",
+    "time": 724,
+    "timeDay": 573,
+    "timeWeek": 654,
+    "timeMonth": 691,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2026-02-06": 70
     }
