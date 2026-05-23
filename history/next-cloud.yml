@@ -1,7 +1,7 @@
 url: https://cloud.cappuccino.ovh
-status: up
-code: 200
-responseTime: 1616
-lastUpdated: 2026-05-23T00:07:33.745Z
+status: down
+code: 502
+responseTime: 603
+lastUpdated: 2026-05-23T18:14:30.456Z
 startTime: 2024-05-09T12:33:55.762Z
 generator: Upptime <https://github.com/upptime/upptime>
