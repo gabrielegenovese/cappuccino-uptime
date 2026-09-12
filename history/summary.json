@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.cappuccino.ovh.ico",
     "slug": "host-cappuccino",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.49%",
+    "uptimeDay": "84.92%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.77%",
     "time": 686,
-    "timeDay": 733,
-    "timeWeek": 747,
-    "timeMonth": 828,
+    "timeDay": 665,
+    "timeWeek": 728,
+    "timeMonth": 821,
     "timeYear": 683,
     "dailyMinutesDown": {
       "2025-09-20": 66,
@@ -21,7 +21,7 @@
       "2026-02-06": 71,
       "2026-03-31": 389,
       "2026-06-17": 284,
-      "2026-09-12": 20
+      "2026-09-12": 217
     }
   },
   {
@@ -29,16 +29,16 @@
     "url": "https://photos.cappuccino.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/photos.cappuccino.ovh.ico",
     "slug": "immich",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.79%",
-    "time": 692,
-    "timeDay": 883,
-    "timeWeek": 858,
-    "timeMonth": 736,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "85.26%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.76%",
+    "time": 693,
+    "timeDay": 853,
+    "timeWeek": 853,
+    "timeMonth": 739,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2025-09-20": 65,
@@ -47,7 +47,7 @@
       "2026-03-31": 388,
       "2026-05-23": 84,
       "2026-06-17": 279,
-      "2026-09-12": 15
+      "2026-09-12": 212
     }
   },
   {
@@ -55,17 +55,17 @@
     "url": "https://cloud.cappuccino.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.cappuccino.ovh.ico",
     "slug": "next-cloud",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.79%",
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "85.59%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.75%",
     "time": 1158,
-    "timeDay": 1515,
-    "timeWeek": 1649,
-    "timeMonth": 1588,
-    "timeYear": 1193,
+    "timeDay": 1625,
+    "timeWeek": 1660,
+    "timeMonth": 1592,
+    "timeYear": 1194,
     "dailyMinutesDown": {
       "2025-09-20": 65,
       "2025-10-22": 175,
@@ -75,7 +75,7 @@
       "2026-04-11": 38,
       "2026-05-23": 84,
       "2026-06-17": 274,
-      "2026-09-12": 10
+      "2026-09-12": 207
     }
   },
   {
@@ -83,16 +83,16 @@
     "url": "https://matrix.cappuccino.ovh",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Matrix_icon.svg/512px-Matrix_icon.svg.png?20210502154855",
     "slug": "matrix",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.82%",
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "85.93%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.78%",
     "time": 659,
-    "timeDay": 602,
-    "timeWeek": 746,
-    "timeMonth": 789,
+    "timeDay": 585,
+    "timeWeek": 723,
+    "timeMonth": 782,
     "timeYear": 665,
     "dailyMinutesDown": {
       "2025-09-20": 64,
@@ -100,7 +100,7 @@
       "2026-02-06": 70,
       "2026-03-31": 387,
       "2026-06-17": 269,
-      "2026-09-12": 5
+      "2026-09-12": 203
     }
   },
   {
@@ -108,22 +108,22 @@
     "url": "https://chorer.cappuccino.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/chorer.cappuccino.ovh.ico",
     "slug": "chorer-web",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 739,
-    "timeDay": 716,
-    "timeWeek": 821,
-    "timeMonth": 767,
-    "timeYear": 739,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "86.26%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.77%",
+    "time": 740,
+    "timeDay": 784,
+    "timeWeek": 825,
+    "timeMonth": 770,
+    "timeYear": 740,
     "dailyMinutesDown": {
       "2026-02-06": 70,
       "2026-03-31": 387,
       "2026-06-17": 264,
-      "2026-09-12": 0
+      "2026-09-12": 198
     }
   }
 ]
