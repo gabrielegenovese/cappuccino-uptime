@@ -29,15 +29,15 @@
     "url": "https://photos.cappuccino.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/photos.cappuccino.ovh.ico",
     "slug": "immich",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.76%",
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "80.18%",
+    "uptimeWeek": "95.06%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "99.70%",
     "time": 694,
-    "timeDay": 762,
-    "timeWeek": 841,
+    "timeDay": 755,
+    "timeWeek": 829,
     "timeMonth": 757,
     "timeYear": 698,
     "dailyMinutesDown": {
@@ -48,7 +48,7 @@
       "2026-05-23": 84,
       "2026-06-17": 279,
       "2026-09-12": 212,
-      "2026-09-15": 0
+      "2026-09-15": 285
     }
   },
   {
@@ -56,17 +56,17 @@
     "url": "https://cloud.cappuccino.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.cappuccino.ovh.ico",
     "slug": "next-cloud",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.75%",
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "80.19%",
+    "uptimeWeek": "95.11%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "99.69%",
     "time": 1160,
-    "timeDay": 1311,
-    "timeWeek": 1542,
-    "timeMonth": 1584,
-    "timeYear": 1198,
+    "timeDay": 1349,
+    "timeWeek": 1529,
+    "timeMonth": 1579,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2025-09-20": 65,
       "2025-10-22": 175,
@@ -77,7 +77,7 @@
       "2026-05-23": 84,
       "2026-06-17": 274,
       "2026-09-12": 207,
-      "2026-09-15": 0
+      "2026-09-15": 285
     }
   },
   {
