@@ -4,11 +4,11 @@
     "url": "https://test.cappuccino.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/test.cappuccino.ovh.ico",
     "slug": "host-cappuccino",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "98.90%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "98.85%",
     "uptimeYear": "99.73%",
     "time": 686,
     "timeDay": 565,
@@ -21,7 +21,8 @@
       "2026-03-31": 389,
       "2026-06-17": 284,
       "2026-09-12": 217,
-      "2026-09-21": 266
+      "2026-09-21": 266,
+      "2026-09-23": 20
     }
   },
   {
@@ -29,12 +30,12 @@
     "url": "https://photos.cappuccino.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/photos.cappuccino.ovh.ico",
     "slug": "immich",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "98.27%",
-    "uptimeYear": "99.67%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "99.66%",
     "time": 694,
     "timeDay": 616,
     "timeWeek": 749,
@@ -48,7 +49,8 @@
       "2026-06-17": 279,
       "2026-09-12": 212,
       "2026-09-15": 285,
-      "2026-09-21": 261
+      "2026-09-21": 261,
+      "2026-09-23": 15
     }
   },
   {
@@ -56,11 +58,11 @@
     "url": "https://cloud.cappuccino.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.cappuccino.ovh.ico",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "98.29%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "98.27%",
     "uptimeYear": "99.66%",
     "time": 1171,
     "timeDay": 1146,
@@ -77,7 +79,8 @@
       "2026-06-17": 274,
       "2026-09-12": 207,
       "2026-09-15": 285,
-      "2026-09-21": 256
+      "2026-09-21": 256,
+      "2026-09-23": 10
     }
   },
   {
@@ -85,11 +88,11 @@
     "url": "https://matrix.cappuccino.ovh",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Matrix_icon.svg/512px-Matrix_icon.svg.png?20210502154855",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "98.96%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "99.74%",
     "time": 659,
     "timeDay": 501,
@@ -102,7 +105,8 @@
       "2026-03-31": 387,
       "2026-06-17": 269,
       "2026-09-12": 203,
-      "2026-09-21": 251
+      "2026-09-21": 251,
+      "2026-09-23": 5
     }
   },
   {
@@ -110,11 +114,11 @@
     "url": "https://chorer.cappuccino.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/chorer.cappuccino.ovh.ico",
     "slug": "chorer-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.55%",
-    "uptimeMonth": "98.99%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "99.72%",
     "time": 739,
     "timeDay": 569,
@@ -126,7 +130,8 @@
       "2026-03-31": 387,
       "2026-06-17": 264,
       "2026-09-12": 198,
-      "2026-09-21": 247
+      "2026-09-21": 247,
+      "2026-09-23": 0
     }
   }
 ]
