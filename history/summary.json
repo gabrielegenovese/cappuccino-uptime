@@ -13,7 +13,7 @@
     "time": 693,
     "timeDay": 891,
     "timeWeek": 1170,
-    "timeMonth": 735,
+    "timeMonth": 741,
     "timeYear": 676,
     "dailyMinutesDown": {
       "2026-02-06": 71,
@@ -38,7 +38,7 @@
     "time": 718,
     "timeDay": 663,
     "timeWeek": 1461,
-    "timeMonth": 939,
+    "timeMonth": 947,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2026-02-06": 71,
@@ -59,14 +59,14 @@
     "slug": "next-cloud",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "13.13%",
     "uptimeWeek": "35.64%",
     "uptimeMonth": "85.19%",
     "uptimeYear": "98.40%",
     "time": 1228,
     "timeDay": 1594,
     "timeWeek": 2662,
-    "timeMonth": 1793,
+    "timeMonth": 1814,
     "timeYear": 1278,
     "dailyMinutesDown": {
       "2026-01-09": 22,
@@ -101,7 +101,7 @@
     "time": 660,
     "timeDay": 661,
     "timeWeek": 622,
-    "timeMonth": 592,
+    "timeMonth": 590,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2026-02-06": 70,
@@ -126,7 +126,7 @@
     "time": 737,
     "timeDay": 743,
     "timeWeek": 698,
-    "timeMonth": 711,
+    "timeMonth": 716,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2026-02-06": 70,
